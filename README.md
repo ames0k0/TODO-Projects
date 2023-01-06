@@ -7,3 +7,4 @@ List of small and maybe fun projects to do :)
 - [ ] led_ticker_display
 - [ ] browser_tabs
 - [ ] christmas_tree
+- [ ] pixels2logo
