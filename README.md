@@ -6,3 +6,4 @@ List of small and maybe fun projects to do :)
 - [ ] 305
 - [ ] led_ticker_display
 - [ ] browser_tabs
+- [ ] christmas_tree
